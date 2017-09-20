@@ -1,0 +1,16 @@
+/*.mark-reg-form .field-row:nth-child(n+4) .field-label label{
+	min-height: 50px;
+}*/
+
+#mark_reg_form_5{
+	padding: 20px;
+	/*width: 800px;*/
+	margin: 50px auto;
+}
+
+.mark-reg-form .field-row {
+    display: block;
+    margin: 0 0 40px 0;
+    width: 100%;
+}
+ 

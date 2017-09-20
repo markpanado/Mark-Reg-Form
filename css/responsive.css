@@ -1,0 +1,117 @@
+@media only screen and (min-width: 1200px) and (max-width: 1600px) {
+
+}
+
+@media only screen and (max-width: 1199px){
+	.mark-reg-form .field-row{
+		margin-right: 12.5px!important;
+	}
+}
+
+@media only screen and (max-width: 1400px){
+
+}
+
+@media only screen and (max-width: 1300px){
+
+}
+
+@media only screen and (max-width: 1279px){
+
+}
+
+@media only screen and (max-width: 1200px){
+
+}
+
+@media only screen and (min-width: 1000px) and (max-width: 1200px) {
+
+}
+
+@media only screen and (max-width: 1024px){
+
+}
+
+@media only screen and (min-width: 1000px) {
+
+}
+
+@media only screen and (min-width: 600px) and (max-width: 1000px) {
+
+}
+
+@media only screen and (max-width: 1000px){
+
+}
+
+
+@media only screen and (min-width: 768px) and (max-width: 1100px){
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1000px) {
+
+}
+
+@media only screen and (max-width: 991px){
+
+}
+
+@media only screen and (max-width: 800px){
+	.mark-reg-form .body .field-row:nth-child(3n){
+		margin-right: 0!important;
+	}
+	.field-label label{
+		min-height: 50px;
+	}
+}
+@media only screen and (max-width: 783px){
+
+}
+
+@media only screen and (max-width: 768px){
+
+}
+
+@media only screen and (min-width: 600px) and (max-width: 768px){
+
+}
+
+@media only screen and (max-width: 680px){
+	.mark-reg-form .body .field-row:nth-child(3n){
+		margin-right: inherit!important;
+	}
+}
+
+@media only screen and (max-width: 653px){
+	.mark-reg-form .body .field-row{
+		margin-right: 0!important;
+		width: 100%;
+	}
+}
+
+
+@media only screen and (max-width: 600px){
+	.field-label label{
+		min-height: 25px;
+	}
+}
+
+@media only screen and (max-width: 500px) {
+
+}
+
+@media only screen and (max-width: 480px){
+	.page-about-msg .logo{
+		float: none!important;
+		margin: 0 auto;
+	}
+}
+
+@media only screen and (max-width: 420px){
+
+}
+
+@media only screen and (max-width: 350px) {
+
+}
